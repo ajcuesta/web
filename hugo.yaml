@@ -62,7 +62,7 @@ languages:
       experience:
         items:
           - company: "Universitat de Barcelona"
-            companyUrl: "https://example.com"
+            companyUrl: "https://web.ub.edu"
             jobs:
               - name: "Desarrolladora Senior de Software"
                 date: "Ene 2023 - presente"
@@ -84,7 +84,7 @@ languages:
                 date: "Ene 2022 - Dic 2023"
                 content: "Trabajé como desarrolladora de software. Trabajé en un proyecto que se utilizará para ayudar a las personas a encontrar la mejor manera de moverse por la ciudad."
           - company: "Yale University"
-            companyUrl: "https://example.com"
+            companyUrl: "https://www.yale.edu"
             jobs:
               - name: "Desarrolladora de Software"
                 date: "Sep 2020 - Dic 2021"
